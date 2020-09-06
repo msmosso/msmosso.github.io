@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="https://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://msmosso.github.io/categories/</loc>
+    <loc>https://msmosso.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://msmosso.github.io/</loc>
+    <loc>https://msmosso.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://msmosso.github.io/tags/</loc>
+    <loc>https://msmosso.github.io/tags/</loc>
   </url>
   
 </urlset>

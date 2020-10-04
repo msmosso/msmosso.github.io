@@ -2,13 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Matheus Mósso</title>
-    <link>http://msmosso.github.io/categories/</link>
+    <link>https://msmosso.github.io/categories/</link>
     <description>Recent content in Categories on Matheus Mósso</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language>
-    
-	<atom:link href="http://msmosso.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>pt</language><atom:link href="https://msmosso.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
